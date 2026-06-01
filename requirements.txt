@@ -1,0 +1,9 @@
+ultralytics>=8.0.0
+roboflow
+onnx>=1.12.0
+onnxruntime
+onnxslim>=0.1.82
+opencv-python
+pandas
+matplotlib
+pyyaml
