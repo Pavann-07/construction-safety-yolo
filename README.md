@@ -34,10 +34,10 @@ This repository contains a complete computer vision pipeline for training, evalu
    ```bash
    python results/inference.py --source results/sample_image.jpg
 
-   **Video Inference:**
+**Video Inference:**
    ```bash
    python results/inference.py --source results/sample_image.mp4
 
-   **Live Webcam Inference:**
+**Live Webcam Inference:**
    ```bash
    python results/inference.py --source 0
